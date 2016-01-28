@@ -1,0 +1,28 @@
+body {
+	background-color: LightGray;
+}
+
+div {
+	border: 1px solid Chocolate;
+}
+
+.top-navigation {
+	background-color: #fff;
+}
+
+.top-navigation > .content {
+	width: 970px;
+	height: 70px;
+	margin: 0 auto;
+}
+
+.content .logo {
+	margin-left: 14px;
+	height: 70px;
+}
+
+
+.middle {
+	height: 60rem;
+	width: 4.375rem;
+}
